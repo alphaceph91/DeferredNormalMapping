@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Deferred.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  deferred_shading.cpp
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\dependencies\include\util\shader.h(180,40): warning C4101: 'e': unreferenced local variable
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\dependencies\include\util\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\dependencies\include\util\assets.h(235,41): warning C4101: 'e_cubemap': unreferenced local variable
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\dependencies\include\util\assets.h(305,29): warning C4244: 'return': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(32,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(33,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(53,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(158,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(159,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(160,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(163,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(164,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(165,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(168,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(169,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(170,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(171,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(188,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(209,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(212,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(212,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(318,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(482,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(483,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(487,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(488,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(490,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(491,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\src\deferred\deferred_shading.cpp(502,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\OneDrive\Desktop\Assignment 4\dependencies\include\util\window.h(118): warning C4715: 'InitWindowAndGUI': not all control paths return a value
+  deferred.vcxproj -> C:\Users\ahmed\OneDrive\Desktop\Assignment 4\VS\x64\Debug\Assignment4.exe
